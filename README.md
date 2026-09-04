@@ -6,6 +6,8 @@ portafolio para mostrar composición de vistas, manejo de estado con `@Observabl
 cálculo monetario con `Decimal` en un dominio financiero real: precios, tenencias y
 conversiones.
 
+<img width="1342" height="779" alt="WalletApp" src="https://github.com/user-attachments/assets/83c3c0fc-bcf5-46e2-8186-8781769e8b91" />
+
 ---
 
 ## Tecnologías usadas
